@@ -9,7 +9,7 @@
  *
  * Model version                  : 14
  * Simulink Coder version         : 23.2 (R2023b) 01-Aug-2023
- * C/C++ source code generated on : Sat Oct 11 18:36:36 2025
+ * C/C++ source code generated on : Mon Oct 13 11:30:11 2025
  *
  * Target selection: ert.tlc
  * Embedded hardware selection: Texas Instruments->C2000
@@ -1622,10 +1622,10 @@ void mcb_pmsm_foc_CurrentControl(void)
   /* Switch: '<S213>/Switch' incorporates:
    *  Constant: '<S213>/Constant1'
    */
-  mcb_pmsm_foc_hall_f28379d_B.Switch_h = 0.0522473082F;
+  mcb_pmsm_foc_hall_f28379d_B.Switch_h = 0.0533422157F;
 
   /* If: '<S214>/If' */
-  if (mcb_pmsm_foc_hall_f28379d_B.Merge1 <= 0.0522473082F) {
+  if (mcb_pmsm_foc_hall_f28379d_B.Merge1 <= 0.0533422157F) {
     /* Outputs for IfAction SubSystem: '<S214>/If Action Subsystem' incorporates:
      *  ActionPort: '<S216>/Action Port'
      */
@@ -1634,7 +1634,7 @@ void mcb_pmsm_foc_CurrentControl(void)
      *  Sum: '<S216>/Add'
      */
     mcb_pmsm_foc_hall_f28379d_B.Merge_m = (mcb_pmsm_foc_hall_f28379d_B.Merge1 +
-      1.0F) - 0.0522473082F;
+      1.0F) - 0.0533422157F;
 
     /* End of Outputs for SubSystem: '<S214>/If Action Subsystem' */
   } else {
@@ -1645,7 +1645,7 @@ void mcb_pmsm_foc_CurrentControl(void)
      *  Sum: '<S217>/Add'
      */
     mcb_pmsm_foc_hall_f28379d_B.Merge_m = mcb_pmsm_foc_hall_f28379d_B.Merge1 -
-      0.0522473082F;
+      0.0533422157F;
 
     /* End of Outputs for SubSystem: '<S214>/If Action Subsystem1' */
   }

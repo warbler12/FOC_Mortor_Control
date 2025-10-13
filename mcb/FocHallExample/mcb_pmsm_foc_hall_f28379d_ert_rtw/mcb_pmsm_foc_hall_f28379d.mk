@@ -2,7 +2,7 @@
 ## Makefile generated for component 'mcb_pmsm_foc_hall_f28379d'. 
 ## 
 ## Makefile     : mcb_pmsm_foc_hall_f28379d.mk
-## Generated on : Thu Oct 09 16:09:30 2025
+## Generated on : Mon Oct 13 11:30:21 2025
 ## Final product: $(RELATIVE_PATH_TO_ANCHOR)/mcb_pmsm_foc_hall_f28379d.out
 ## Product type : executable
 ## 
@@ -21,7 +21,7 @@ MAKEFILE                  = mcb_pmsm_foc_hall_f28379d.mk
 MATLAB_ROOT               = D:/Software/MATLAB
 MATLAB_BIN                = D:/Software/MATLAB/bin
 MATLAB_ARCH_BIN           = $(MATLAB_BIN)/win64
-START_DIR                 = C:/Users/13571/Documents/MATLAB/Examples/R2023b/mcb/FocHallExample
+START_DIR                 = D:/project/internship/mcb/FocHallExample
 SOLVER                    = 
 SOLVER_OBJ                = 
 CLASSIC_INTERFACE         = 0

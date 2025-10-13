@@ -1,12 +1,12 @@
 MW_SPI.obj: D:/Software/MATLAB/toolbox/c2b/tic2000/src/MW_SPI.c
 MW_SPI.obj: D:/Software/MATLAB/toolbox/c2b/tic2000/inc/MW_c28xSPI.h
 MW_SPI.obj: D:/Software/MATLAB/toolbox/c2b/tic2000_shared/inc/MW_c28xGPIO.h
-MW_SPI.obj: C:/Users/13571/Documents/MATLAB/Examples/R2023b/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h
+MW_SPI.obj: D:/project/internship/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h
 MW_SPI.obj: D:/Software/MATLAB/toolbox/c2b/tic2000_shared/src/c2000BoardSupport.h
 MW_SPI.obj: C:/PROGRA~3/MATLAB/tic2000/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/stdbool.h
 MW_SPI.obj: C:/PROGRA~3/MATLAB/tic2000/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/_ti_config.h
 MW_SPI.obj: C:/PROGRA~3/MATLAB/tic2000/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/linkage.h
-MW_SPI.obj: C:/Users/13571/Documents/MATLAB/Examples/R2023b/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/rtwtypes.h
+MW_SPI.obj: D:/project/internship/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/rtwtypes.h
 MW_SPI.obj: D:/Software/MATLAB/toolbox/c2b/tic2000_shared/inc/MW_f2837xD_includes.h
 MW_SPI.obj: C:/TI/C2000W~2/DEVICE~1/f2837xd/headers/include/F2837xD_device.h
 MW_SPI.obj: C:/PROGRA~3/MATLAB/tic2000/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/assert.h
@@ -78,9 +78,9 @@ MW_SPI.obj: C:\TI\C2000W~2\DRIVER~1\f2837xd\DRIVER~1\inc/hw_dma.h
 MW_SPI.obj: C:/TI/C2000W~2/DRIVER~1/f2837xd/DRIVER~1/clb.h
 MW_SPI.obj: C:\TI\C2000W~2\DRIVER~1\f2837xd\DRIVER~1\inc/hw_clb.h
 MW_SPI.obj: D:/Software/MATLAB/toolbox/c2b/tic2000/inc/c2837xDInit.h
-MW_SPI.obj: C:/Users/13571/Documents/MATLAB/Examples/R2023b/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h
+MW_SPI.obj: D:/project/internship/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h
 MW_SPI.obj: D:/Software/MATLAB/toolbox/c2b/tic2000_shared/src/c2000SchedulerTimer.h
-MW_SPI.obj: C:/Users/13571/Documents/MATLAB/Examples/R2023b/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h
+MW_SPI.obj: D:/project/internship/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h
 MW_SPI.obj: D:/Software/MATLAB/toolbox/target/shared/svd/common/include/MW_SPI.h
 MW_SPI.obj: D:\Software\MATLAB\toolbox\target\shared\svd\common\include\MW_digitalIO.h
 MW_SPI.obj: D:\Software\MATLAB\toolbox\target\shared\svd\common\include\MW_SVD.h
@@ -88,12 +88,12 @@ MW_SPI.obj: D:\Software\MATLAB\toolbox\target\shared\svd\common\include\MW_SVD.h
 D:/Software/MATLAB/toolbox/c2b/tic2000/src/MW_SPI.c:
 D:/Software/MATLAB/toolbox/c2b/tic2000/inc/MW_c28xSPI.h:
 D:/Software/MATLAB/toolbox/c2b/tic2000_shared/inc/MW_c28xGPIO.h:
-C:/Users/13571/Documents/MATLAB/Examples/R2023b/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h:
+D:/project/internship/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h:
 D:/Software/MATLAB/toolbox/c2b/tic2000_shared/src/c2000BoardSupport.h:
 C:/PROGRA~3/MATLAB/tic2000/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/stdbool.h:
 C:/PROGRA~3/MATLAB/tic2000/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/_ti_config.h:
 C:/PROGRA~3/MATLAB/tic2000/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/linkage.h:
-C:/Users/13571/Documents/MATLAB/Examples/R2023b/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/rtwtypes.h:
+D:/project/internship/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/rtwtypes.h:
 D:/Software/MATLAB/toolbox/c2b/tic2000_shared/inc/MW_f2837xD_includes.h:
 C:/TI/C2000W~2/DEVICE~1/f2837xd/headers/include/F2837xD_device.h:
 C:/PROGRA~3/MATLAB/tic2000/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/assert.h:
@@ -165,9 +165,9 @@ C:\TI\C2000W~2\DRIVER~1\f2837xd\DRIVER~1\inc/hw_dma.h:
 C:/TI/C2000W~2/DRIVER~1/f2837xd/DRIVER~1/clb.h:
 C:\TI\C2000W~2\DRIVER~1\f2837xd\DRIVER~1\inc/hw_clb.h:
 D:/Software/MATLAB/toolbox/c2b/tic2000/inc/c2837xDInit.h:
-C:/Users/13571/Documents/MATLAB/Examples/R2023b/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h:
+D:/project/internship/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h:
 D:/Software/MATLAB/toolbox/c2b/tic2000_shared/src/c2000SchedulerTimer.h:
-C:/Users/13571/Documents/MATLAB/Examples/R2023b/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h:
+D:/project/internship/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h:
 D:/Software/MATLAB/toolbox/target/shared/svd/common/include/MW_SPI.h:
 D:\Software\MATLAB\toolbox\target\shared\svd\common\include\MW_digitalIO.h:
 D:\Software\MATLAB\toolbox\target\shared\svd\common\include\MW_SVD.h:

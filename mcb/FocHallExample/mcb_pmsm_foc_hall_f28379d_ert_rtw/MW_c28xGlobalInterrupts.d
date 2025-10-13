@@ -1,10 +1,10 @@
 MW_c28xGlobalInterrupts.obj: D:/Software/MATLAB/toolbox/c2b/tic2000_shared/src/MW_c28xGlobalInterrupts.c
-MW_c28xGlobalInterrupts.obj: C:/Users/13571/Documents/MATLAB/Examples/R2023b/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h
+MW_c28xGlobalInterrupts.obj: D:/project/internship/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h
 MW_c28xGlobalInterrupts.obj: D:/Software/MATLAB/toolbox/c2b/tic2000_shared/src/c2000BoardSupport.h
 MW_c28xGlobalInterrupts.obj: C:/PROGRA~3/MATLAB/tic2000/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/stdbool.h
 MW_c28xGlobalInterrupts.obj: C:/PROGRA~3/MATLAB/tic2000/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/_ti_config.h
 MW_c28xGlobalInterrupts.obj: C:/PROGRA~3/MATLAB/tic2000/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/linkage.h
-MW_c28xGlobalInterrupts.obj: C:/Users/13571/Documents/MATLAB/Examples/R2023b/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/rtwtypes.h
+MW_c28xGlobalInterrupts.obj: D:/project/internship/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/rtwtypes.h
 MW_c28xGlobalInterrupts.obj: D:/Software/MATLAB/toolbox/c2b/tic2000_shared/inc/MW_f2837xD_includes.h
 MW_c28xGlobalInterrupts.obj: C:/TI/C2000W~2/DEVICE~1/f2837xd/headers/include/F2837xD_device.h
 MW_c28xGlobalInterrupts.obj: C:/PROGRA~3/MATLAB/tic2000/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/assert.h
@@ -76,16 +76,16 @@ MW_c28xGlobalInterrupts.obj: C:\TI\C2000W~2\DRIVER~1\f2837xd\DRIVER~1\inc/hw_dma
 MW_c28xGlobalInterrupts.obj: C:/TI/C2000W~2/DRIVER~1/f2837xd/DRIVER~1/clb.h
 MW_c28xGlobalInterrupts.obj: C:\TI\C2000W~2\DRIVER~1\f2837xd\DRIVER~1\inc/hw_clb.h
 MW_c28xGlobalInterrupts.obj: D:/Software/MATLAB/toolbox/c2b/tic2000/inc/c2837xDInit.h
-MW_c28xGlobalInterrupts.obj: C:/Users/13571/Documents/MATLAB/Examples/R2023b/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h
+MW_c28xGlobalInterrupts.obj: D:/project/internship/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h
 MW_c28xGlobalInterrupts.obj: D:/Software/MATLAB/toolbox/c2b/tic2000_shared/src/c2000SchedulerTimer.h
 
 D:/Software/MATLAB/toolbox/c2b/tic2000_shared/src/MW_c28xGlobalInterrupts.c:
-C:/Users/13571/Documents/MATLAB/Examples/R2023b/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h:
+D:/project/internship/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h:
 D:/Software/MATLAB/toolbox/c2b/tic2000_shared/src/c2000BoardSupport.h:
 C:/PROGRA~3/MATLAB/tic2000/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/stdbool.h:
 C:/PROGRA~3/MATLAB/tic2000/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/_ti_config.h:
 C:/PROGRA~3/MATLAB/tic2000/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/linkage.h:
-C:/Users/13571/Documents/MATLAB/Examples/R2023b/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/rtwtypes.h:
+D:/project/internship/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/rtwtypes.h:
 D:/Software/MATLAB/toolbox/c2b/tic2000_shared/inc/MW_f2837xD_includes.h:
 C:/TI/C2000W~2/DEVICE~1/f2837xd/headers/include/F2837xD_device.h:
 C:/PROGRA~3/MATLAB/tic2000/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/assert.h:
@@ -157,6 +157,6 @@ C:\TI\C2000W~2\DRIVER~1\f2837xd\DRIVER~1\inc/hw_dma.h:
 C:/TI/C2000W~2/DRIVER~1/f2837xd/DRIVER~1/clb.h:
 C:\TI\C2000W~2\DRIVER~1\f2837xd\DRIVER~1\inc/hw_clb.h:
 D:/Software/MATLAB/toolbox/c2b/tic2000/inc/c2837xDInit.h:
-C:/Users/13571/Documents/MATLAB/Examples/R2023b/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h:
+D:/project/internship/mcb/FocHallExample/mcb_pmsm_foc_hall_f28379d_ert_rtw/MW_target_hardware_resources.h:
 D:/Software/MATLAB/toolbox/c2b/tic2000_shared/src/c2000SchedulerTimer.h:
 

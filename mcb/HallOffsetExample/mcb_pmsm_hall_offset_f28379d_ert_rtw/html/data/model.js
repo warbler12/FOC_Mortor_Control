@@ -1,0 +1,1 @@
+var modelInfo = {model:"mcb_pmsm_hall_offset_f28379d"};var modelHierarchy=[{model:"mcb_pmsm_hall_offset_f28379d",relativePath:"_internal.html",parent:"null"},];

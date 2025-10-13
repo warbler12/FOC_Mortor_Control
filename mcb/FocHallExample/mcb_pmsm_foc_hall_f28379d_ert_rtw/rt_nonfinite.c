@@ -9,7 +9,7 @@
  *
  * Model version                  : 14
  * Simulink Coder version         : 23.2 (R2023b) 01-Aug-2023
- * C/C++ source code generated on : Sat Oct 11 18:36:36 2025
+ * C/C++ source code generated on : Mon Oct 13 11:30:11 2025
  *
  * Target selection: ert.tlc
  * Embedded hardware selection: Texas Instruments->C2000

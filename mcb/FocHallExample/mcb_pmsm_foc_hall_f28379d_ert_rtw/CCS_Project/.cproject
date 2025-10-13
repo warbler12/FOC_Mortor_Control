@@ -28,13 +28,13 @@
 <option id="com.ti.ccstudio.buildDefinitions.C2000_6.4.compilerID.INCLUDE_PATH.1515724014" superClass="com.ti.ccstudio.buildDefinitions.C2000_6.4.compilerID.INCLUDE_PATH" valueType="includePath">
 <listOptionValue builtIn="false" value="${CG_TOOL_ROOT}/include">
 </listOptionValue>
-<listOptionValue builtIn="false" value="C:\Users\13571\Documents\MATLAB\Examples\R2023b\mcb\FocHallExample">
+<listOptionValue builtIn="false" value="D:\project\internship\mcb\FocHallExample">
 </listOptionValue>
 <listOptionValue builtIn="false" value="D:\Software\MATLAB\toolbox\target\shared\svd\common\include">
 </listOptionValue>
 <listOptionValue builtIn="false" value="D:\Software\MATLAB\toolbox\c2b\tic2000\inc">
 </listOptionValue>
-<listOptionValue builtIn="false" value="C:\Users\13571\Documents\MATLAB\Examples\R2023b\mcb\FocHallExample\mcb_pmsm_foc_hall_f28379d_ert_rtw">
+<listOptionValue builtIn="false" value="D:\project\internship\mcb\FocHallExample\mcb_pmsm_foc_hall_f28379d_ert_rtw">
 </listOptionValue>
 <listOptionValue builtIn="false" value="D:\Software\MATLAB\extern\include">
 </listOptionValue>
@@ -234,13 +234,13 @@
 <option id="com.ti.ccstudio.buildDefinitions.C2000_6.4.compilerID.INCLUDE_PATH.899964030" superClass="com.ti.ccstudio.buildDefinitions.C2000_6.4.compilerID.INCLUDE_PATH" valueType="includePath">
 <listOptionValue builtIn="false" value="${CG_TOOL_ROOT}/include">
 </listOptionValue>
-<listOptionValue builtIn="false" value="C:\Users\13571\Documents\MATLAB\Examples\R2023b\mcb\FocHallExample">
+<listOptionValue builtIn="false" value="D:\project\internship\mcb\FocHallExample">
 </listOptionValue>
 <listOptionValue builtIn="false" value="D:\Software\MATLAB\toolbox\target\shared\svd\common\include">
 </listOptionValue>
 <listOptionValue builtIn="false" value="D:\Software\MATLAB\toolbox\c2b\tic2000\inc">
 </listOptionValue>
-<listOptionValue builtIn="false" value="C:\Users\13571\Documents\MATLAB\Examples\R2023b\mcb\FocHallExample\mcb_pmsm_foc_hall_f28379d_ert_rtw">
+<listOptionValue builtIn="false" value="D:\project\internship\mcb\FocHallExample\mcb_pmsm_foc_hall_f28379d_ert_rtw">
 </listOptionValue>
 <listOptionValue builtIn="false" value="D:\Software\MATLAB\extern\include">
 </listOptionValue>
