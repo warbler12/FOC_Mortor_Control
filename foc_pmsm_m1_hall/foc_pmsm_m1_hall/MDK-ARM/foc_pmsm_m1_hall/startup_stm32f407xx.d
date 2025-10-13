@@ -1,0 +1,1 @@
+foc_pmsm_m1_hall\startup_stm32f407xx.o: startup_stm32f407xx.s

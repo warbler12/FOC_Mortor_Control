@@ -1,0 +1,1 @@
+var modelInfo = {model:"pmsm_f28379d_openloop"};var modelHierarchy=[{model:"pmsm_f28379d_openloop",relativePath:"_internal.html",parent:"null"},];
