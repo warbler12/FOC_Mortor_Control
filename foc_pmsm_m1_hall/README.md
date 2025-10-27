@@ -24,19 +24,18 @@
 
 ![image.png](docs/image%201.png)
 
-1. 自动生成代码
-    
+2. 自动生成代码
     Tools->Generation->GENERATE
     
     ![image.png](docs/image%202.png)
     
     ![image.png](docs/image%203.png)
     
-2. 烧录
+3. 烧录
 
 在Keil中打开MDK-ARM\foc_pmsm_m1_hall.uvprojx，注意芯片选择，Options for Target中选择Output->Create HEX File，在Debug->Settings中查看烧录器是否被检测，Build，Load
 
-1. 按下Key 2开启或关闭电机，重新烧录后可按下Reset
+4. 按下Key 2开启或关闭电机，重新烧录后可按下Reset
 
 ## **代码系统架构思路**
 
@@ -158,7 +157,7 @@ USART_IRQHandler()                           // 串口中断
 
 ### 呈现效果
 
-[808d4b760fbf4f4e97441a4b3b59ba09.mp4](docs/808d4b760fbf4f4e97441a4b3b59ba09.mp4)
+[呈现效果](docs/808d4b760fbf4f4e97441a4b3b59ba09.mp4)
 
 ### Documents
 
