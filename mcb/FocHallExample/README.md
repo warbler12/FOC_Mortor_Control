@@ -1,8 +1,4 @@
 # TI驱动霍尔电机运动控制流程
-
-Priority: Low
-Status: Done
-
 ## 配置
 
 1. 硬件
@@ -15,7 +11,7 @@ Status: Done
 
 注意相序
 
-![e6d855da-542a-444d-919f-7bbe14861160.jpg](e6d855da-542a-444d-919f-7bbe14861160.jpg)
+![e6d855da-542a-444d-919f-7bbe14861160.jpg](docs/e6d855da-542a-444d-919f-7bbe14861160.jpg)
 
 ## 电机控制系统设计流程
 
@@ -23,7 +19,7 @@ Status: Done
     
     打开mcb_pmsm_foc_hall_f28379d.slx。
     
-    ![foc.png](foc.png)
+    ![foc.png](docs/foc.png)
     
     打开该目录下mcb_pmsm_foc_hall_f28379d_data.m，注意修改电机参数与PI参数。
     
@@ -62,7 +58,7 @@ Status: Done
     
     开始仿真。在数据检查器中勾选参考转速与实际转速，得到曲线如图所示，根据转速跟随情况调整PI参数。
     
-    ![sim.png](sim.png)
+    ![sim.png](docs/sim.png)
     
 2. 完成硬件连接。
 3. 模型会自动计算模数转换器 (ADC) 或电流偏移值。
@@ -73,35 +69,35 @@ Status: Done
     
     打开PMSM的霍尔偏移量校准模型mcb_pmsm_hall_offset_f28379d.slx，修改参数后编译烧录。若偏移量设置不当，观察到电机将固定在某位置无法转动，且随着电流不断增大，电机剧烈振动，直到电流过大触发保护。
     
-    ![a9519711-e2dc-4f71-917b-f6e2adb3428b.png](a9519711-e2dc-4f71-917b-f6e2adb3428b.png)
+    ![a9519711-e2dc-4f71-917b-f6e2adb3428b.png](docs/a9519711-e2dc-4f71-917b-f6e2adb3428b.png)
     
     打开对应host model，开始仿真。若反转则任意交换两相线。校正结束后偏移量显示，输出到Matlab工作区变量PositionOffet。
     
-    ![411bd781-05de-46ff-a5d3-3cbd7149c1a3.png](411bd781-05de-46ff-a5d3-3cbd7149c1a3.png)
+    ![411bd781-05de-46ff-a5d3-3cbd7149c1a3.png](docs/411bd781-05de-46ff-a5d3-3cbd7149c1a3.png)
     
 5. 按所需的硬件配置打开目标模型mcb_pmsm_foc_hall_f28379d.slx，编译烧录。
 6. 在目标模型中，打开关联的主机模型host model。
     
-    ![e22431ed-2dd1-4591-b232-7b6a3791ba11.png](e22431ed-2dd1-4591-b232-7b6a3791ba11.png)
+    ![e22431ed-2dd1-4591-b232-7b6a3791ba11.png](docs/e22431ed-2dd1-4591-b232-7b6a3791ba11.png)
     
     打开电机开关，分别设置参考转速为30RPM，80RPM， 130RPM，观察现象。
     
 
-![Speed_ref = 30RPM](b93e5db7-16c9-44ce-af82-365c8580219f.png)
+![Speed_ref = 30RPM](docs/b93e5db7-16c9-44ce-af82-365c8580219f.png)
 
 Speed_ref = 30RPM
 
-![Speed_ref = 80RPM](efe438bb-3427-4e33-955d-81f9f779a04d.png)
+![Speed_ref = 80RPM](docs/efe438bb-3427-4e33-955d-81f9f779a04d.png)
 
 Speed_ref = 80RPM
 
-![Speed_ref = 130RPM](7b18d966-8fbb-4b55-82a2-2f312860e9d3.png)
+![Speed_ref = 130RPM](docs/7b18d966-8fbb-4b55-82a2-2f312860e9d3.png)
 
 Speed_ref = 130RPM
 
 ### 呈现效果
 
-[ecc689d214fc800350b15442edbde559.mp4](ecc689d214fc800350b15442edbde559.mp4)
+[呈现效果.mp4](docs/ecc689d214fc800350b15442edbde559.mp4)
 
 ### Documents
 
