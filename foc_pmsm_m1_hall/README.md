@@ -1,8 +1,4 @@
 # STM驱动霍尔电机运动控制流程
-
-Priority: Low
-Status: Done
-
 ## 配置
 
 ### 硬件
@@ -20,21 +16,21 @@ Status: Done
 
 ### 硬件连接
 
-![image.png](image.png)
+![image.png](docs/image.png)
 
 ## 电机控制系统设计流程
 
 1. 用MotorControl Workbench 5.4.8打开foc_pmsm_m1_hall.stmcx，修改外设与电机参数
 
-![image.png](image%201.png)
+![image.png](docs/image%201.png)
 
 1. 自动生成代码
     
     Tools->Generation->GENERATE
     
-    ![image.png](image%202.png)
+    ![image.png](docs/image%202.png)
     
-    ![image.png](image%203.png)
+    ![image.png](docs/image%203.png)
     
 2. 烧录
 
@@ -65,7 +61,7 @@ Status: Done
 
 **系统架构示意图**
 
-![9ef1e19a46b82d70d7f1a8147cbc0bd8.png](9ef1e19a46b82d70d7f1a8147cbc0bd8.png)
+![9ef1e19a46b82d70d7f1a8147cbc0bd8.png](docs/9ef1e19a46b82d70d7f1a8147cbc0bd8.png)
 
 ### **详细函数调用流程**
 
@@ -162,7 +158,7 @@ USART_IRQHandler()                           // 串口中断
 
 ### 呈现效果
 
-[808d4b760fbf4f4e97441a4b3b59ba09.mp4](808d4b760fbf4f4e97441a4b3b59ba09.mp4)
+[808d4b760fbf4f4e97441a4b3b59ba09.mp4](docs/808d4b760fbf4f4e97441a4b3b59ba09.mp4)
 
 ### Documents
 
